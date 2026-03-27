@@ -2,7 +2,7 @@
 
 > Plain-English guide to Chapter 7 bankruptcy -- liquidation, eligibility, and the discharge process.
 
-whatischapter7.org is a free, open-source educational resource about Chapter 7 bankruptcy. Part of the Bankruptcy Transparency Network.
+whatischapter7.org is a free, open-source educational resource about Chapter 7 bankruptcy. Part of the Open Bankruptcy Project.
 
 ## Pages
 
