@@ -1,13 +1,16 @@
-# whatischapter7.org
+# Redirecting to whatischapter7.com
+> Free educational resource at whatischapter7.org.
 
-> Plain-English guide to Chapter 7 bankruptcy -- liquidation, eligibility, and the discharge process.
+## About
+whatischapter7.org is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
-whatischapter7.org is a free, open-source educational resource about Chapter 7 bankruptcy. Part of the Open Bankruptcy Project.
-
-## Pages
-
-- https://whatischapter7.org/: What is Chapter 7 bankruptcy -- eligibility, process, and discharge
+## Key Pages
+- Redirecting to whatischapter7.com: https://whatischapter7.org/
 
 ## Contact
+- Website: https://openbankruptcyproject.org
+- Email: contact@openbankruptcyproject.org
+- GitHub: https://github.com/openbankruptcyproject
 
-This site is maintained by volunteers. No legal advice is provided.
+## License
+Content is provided for educational purposes. Data sourced from the Federal Judicial Center Integrated Database (4.9M cases, 94 districts).
