@@ -9,4 +9,6 @@ Part of the Open Bankruptcy Project (openbankruptcyproject.org).
 ## Redirecting to whatischapter7.com
 Source: https://whatischapter7.org/
 
+Skip to main content
+
 This page has moved to https://whatischapter7.com/.
