@@ -1,7 +1,6 @@
 """Request indexing via Google Search Console API urlInspection."""
 import google.auth
 from googleapiclient.discovery import build
-import json
 
 SCOPES = ['https://www.googleapis.com/auth/webmasters']
 

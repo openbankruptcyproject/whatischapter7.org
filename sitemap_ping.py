@@ -1,6 +1,5 @@
 """Ping Google and Bing with all BTN sitemaps."""
 import requests
-import time
 
 DOMAINS = [
     "109g.org", "341meeting.org", "523a.org", "727a8.com", "727a8.org",

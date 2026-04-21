@@ -2,7 +2,6 @@
 import google.auth
 from googleapiclient.discovery import build
 import requests
-import time
 
 SCOPES = ['https://www.googleapis.com/auth/webmasters']
 
@@ -50,7 +49,7 @@ def main():
                     print(f"  SUBMITTED  {domain:42s} sitemap.xml (https prefix)")
                     google_ok += 1
                     continue
-                except Exception as e2:
+                except Exception:
                     print(f"  SKIP       {domain:42s} not verified in GSC")
                     google_skip += 1
             else:
@@ -72,7 +71,7 @@ def main():
         try:
             # Bing still accepts sitemap submissions via this URL
             r = requests.get(
-                f"https://www.bing.com/webmaster/api.svc/json/SubmitSitemap",
+                "https://www.bing.com/webmaster/api.svc/json/SubmitSitemap",
                 params={"siteUrl": f"https://{domain}", "feedUrl": sitemap_url},
                 timeout=15
             )
