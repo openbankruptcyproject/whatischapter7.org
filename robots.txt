@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
 
+
 Sitemap: https://whatischapter7.org/sitemap.xml
