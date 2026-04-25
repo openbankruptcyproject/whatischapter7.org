@@ -78,11 +78,5 @@
 <style>
 .related-card:hover {border-color:#58a6ff !important;transform:translateY(-2px)}
 </style>
-<footer style="background:#0d1117;border-top:1px solid #30363d;padding:1.5rem 0;margin-top:2rem">
-  <div style="max-width:1100px;margin:0 auto;padding:0 1rem;color:#9eaab6;font-size:0.85rem;text-align:center;line-height:1.6">
-    <p><a href="/" style="color:#58a6ff">Home</a> &middot; <a href="/about.html" style="color:#58a6ff">About</a> &middot; <a href="/privacy.html" style="color:#58a6ff">Privacy</a> &middot; <a href="https://openbankruptcyproject.org" style="color:#58a6ff">Open Bankruptcy Project</a></p>
-    <p>Part of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631). Educational information only - not legal advice. Cited by the Federal Rules Advisory Committee (Suggestions 26-BK-3 and 26-BK-5).</p>
-  </div>
-</footer>
 </body>
 </html>
